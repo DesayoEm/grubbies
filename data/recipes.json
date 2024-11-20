@@ -1,0 +1,985 @@
+{
+  "recipes": {
+    "banana-oat-pancakes-001": {
+      "id": "banana-oat-pancakes-001",
+      "title": "Oatmeal Banana Pancakes",
+      "description": "Healthy, gluten-free pancakes made with oats and ripe bananas",
+      "prep_time": 10,
+      "cook_time": 15,
+      "total_time": 25,
+      "servings": 4,
+      "category": "Breakfast",
+      "tags": ["Breakfast", "Gluten-free", "Healthy"],
+      "ingredients": [
+        {
+          "item": "Rolled oats",
+          "quantity": 2,
+          "unit": "cups"
+        },
+        {
+          "item": "Ripe bananas",
+          "quantity": 2,
+          "unit": "large"
+        },
+        {
+          "item": "Eggs",
+          "quantity": 2,
+          "unit": "whole"
+        },
+        {
+          "item": "Milk",
+          "quantity": 0.5,
+          "unit": "cup"
+        },
+        {
+          "item": "Honey",
+          "quantity": 2,
+          "unit": "tablespoons"
+        },
+        {
+          "item": "Baking powder",
+          "quantity": 1,
+          "unit": "teaspoon"
+        },
+        {
+          "item": "Cinnamon",
+          "quantity": 1,
+          "unit": "teaspoon"
+        }
+      ],
+      "instructions": [
+        {
+          "step": "1. Blend oats until they become a fine flour. Add remaining ingredients and blend until smooth.",
+          "time": 5,
+          "time_unit": "minutes",
+          "image_required": true
+        },
+        {
+          "step": "2. Let batter rest for thicker pancakes. Heat non-stick pan over medium heat.",
+          "time": 5,
+          "time_unit": "minutes"
+        },
+        {
+          "step": "3. Pour 1/4 cup batter for each pancake. Cook until bubbles form on surface.",
+          "time": 2,
+          "time_unit": "minutes",
+          "image_required": true
+        },
+        {
+          "step": "4. Flip and cook other side until golden brown.",
+          "time": 1,
+          "time_unit": "minutes",
+          "image_required": true
+        }
+      ],
+      "tips": [
+        "Use very ripe bananas for sweetness",
+        "Let batter rest for 5 minutes if too thin",
+        "Don't overmix the batter",
+        "Keep pancakes warm in oven while making the rest"
+      ]
+    },
+    "brown-jollof-001": {
+      "id": "brown-jollof-001",
+      "title": "Brown Jollof Rice",
+      "description": "A healthier twist on the classic Nigerian Jollof using brown rice",
+      "prep_time": 30,
+      "cook_time": 60,
+      "total_time": 90,
+      "servings": 6,
+      "category": "Rice",
+      "tags": ["West African", "Nigerian", "Rice", "Healthy"],
+      "ingredients": [
+        {
+          "item": "Brown rice",
+          "quantity": 3,
+          "unit": "cups"
+        },
+        {
+          "item": "Red bell peppers",
+          "quantity": 3,
+          "unit": "large"
+        },
+        {
+          "item": "Tomatoes",
+          "quantity": 4,
+          "unit": "medium"
+        },
+        {
+          "item": "Onions",
+          "quantity": 2,
+          "unit": "large"
+        },
+        {
+          "item": "Scotch bonnet peppers",
+          "quantity": 2,
+          "unit": "whole"
+        },
+        {
+          "item": "Garlic cloves",
+          "quantity": 4,
+          "unit": "whole"
+        },
+        {
+          "item": "Ginger",
+          "quantity": 2,
+          "unit": "inches"
+        },
+        {
+          "item": "Curry powder",
+          "quantity": 1,
+          "unit": "tablespoon"
+        },
+        {
+          "item": "Thyme",
+          "quantity": 1,
+          "unit": "teaspoon"
+        },
+        {
+          "item": "Bay leaves",
+          "quantity": 2,
+          "unit": "whole"
+        },
+        {
+          "item": "Vegetable oil",
+          "quantity": 0.5,
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        {
+          "step": "1. Blend tomatoes, red bell peppers, scotch bonnets, 1 onion, garlic, and ginger until smooth to make sauce base.",
+          "time": 5,
+          "time_unit": "minutes",
+          "image_required": true
+        },
+        {
+          "step": "2. Heat oil in a large pot, add diced onion and sauté until translucent.",
+          "time": 5,
+          "time_unit": "minutes"
+        },
+        {
+          "step": "3. Add blended mixture and cook until oil floats to top and raw smell disappears.",
+          "time": 15,
+          "time_unit": "minutes",
+          "image_required": true
+        },
+        {
+          "step": "4. Add spices, brown rice, and required water. Bring to boil then reduce to simmer.",
+          "time": 45,
+          "time_unit": "minutes",
+          "image_required": true
+        }
+      ],
+      "tips": [
+        "Brown rice needs more water than white rice",
+        "Let it rest for 10 minutes after cooking",
+        "Don't stir too often while cooking",
+        "Sauce should be well reduced before adding rice"
+      ]
+    },
+    "buns-001": {
+      "id": "buns-001",
+      "title": "Nigerian Buns",
+      "description": "Sweet, golden-brown deep-fried dough balls with crispy exterior and soft interior",
+      "prep_time": 15,
+      "cook_time": 25,
+      "total_time": 40,
+      "servings": 20,
+      "category": "Snacks",
+      "tags": ["Snacks", "Appetizers", "Nigerian", "Deep fried"],
+      "ingredients": [
+        {
+          "item": "All-purpose flour",
+          "quantity": 3,
+          "unit": "cups"
+        },
+        {
+          "item": "Sugar",
+          "quantity": 0.5,
+          "unit": "cup"
+        },
+        {
+          "item": "Eggs",
+          "quantity": 2,
+          "unit": "whole"
+        },
+        {
+          "item": "Butter",
+          "quantity": 2,
+          "unit": "tablespoons"
+        },
+        {
+          "item": "Milk",
+          "quantity": 0.5,
+          "unit": "cup"
+        },
+        {
+          "item": "Nutmeg",
+          "quantity": 0.5,
+          "unit": "teaspoon"
+        },
+        {
+          "item": "Baking powder",
+          "quantity": 1,
+          "unit": "tablespoon"
+        },
+        {
+          "item": "Vegetable oil",
+          "quantity": 4,
+          "unit": "cups"
+        }
+      ],
+      "instructions": [
+        {
+          "step": "1. Mix flour, sugar, baking powder, and nutmeg in a bowl. Add eggs, butter, and milk. Mix until you have a thick, smooth dough that's slightly sticky.",
+          "time": 10,
+          "time_unit": "minutes",
+          "image_required": true
+        },
+        {
+          "step": "2. Heat oil in a deep pot to 350°F (175°C). Test temperature with a small piece of dough - it should rise to surface and bubble.",
+          "time": 5,
+          "time_unit": "minutes"
+        },
+        {
+          "step": "3. Scoop dough with hands or spoon and drop into hot oil. Don't overcrowd the pot.",
+          "time": 15,
+          "time_unit": "minutes",
+          "image_required": true
+        },
+        {
+          "step": "4. Fry until golden brown, turning occasionally for even cooking. Remove and drain on paper towels.",
+          "time": 5,
+          "time_unit": "minutes",
+          "image_required": true
+        }
+      ],
+      "tips": [
+        "Dough should be thick enough to scoop, not runny",
+        "Maintain oil temperature for even cooking",
+        "Don't make balls too large - they need to cook through",
+        "Test one bun first to check doneness inside"
+      ]
+    },
+    "chili-oil-001": {
+      "id": "chili-oil-001",
+      "title": "Chili Oil",
+      "description": "Aromatic and spicy infused oil for seasoning dishes",
+      "prep_time": 10,
+      "cook_time": 20,
+      "total_time": 30,
+      "servings": "2 cups",
+      "category": "Condiments",
+      "tags": ["Condiments", "Spicy", "Asian-inspired"],
+      "ingredients": [
+        {
+          "item": "Neutral oil",
+          "quantity": 2,
+          "unit": "cups"
+        },
+        {
+          "item": "Red chili flakes",
+          "quantity": 0.5,
+          "unit": "cup"
+        },
+        {
+          "item": "Star anise",
+          "quantity": 2,
+          "unit": "whole"
+        },
+        {
+          "item": "Garlic cloves",
+          "quantity": 4,
+          "unit": "whole"
+        }
+      ],
+      "instructions": [
+        {
+          "step": "1. In a small saucepan, heat oil until it reaches 350°F (180°C). Test temperature by dropping a chili flake - it should sizzle gently.",
+          "time": 5,
+          "time_unit": "minutes",
+          "image_required": true
+        },
+        {
+          "step": "2. Place chili flakes, star anise, and garlic in a heat-safe container.",
+          "time": 1,
+          "time_unit": "minutes"
+        },
+        {
+          "step": "3. Carefully pour the hot oil over the spices. The oil should bubble vigorously then settle.",
+          "time": 1,
+          "time_unit": "minutes",
+          "image_required": true
+        },
+        {
+          "step": "4. Let cool completely at room temperature.",
+          "time": 2,
+          "time_unit": "hours"
+        }
+      ],
+      "tips": [
+        "Store in a clean, airtight jar",
+        "Keep refrigerated for up to 6 months",
+        "Strain oil if desired",
+        "Can be used immediately but flavors develop over time"
+      ]
+    },
+    "cocoyam-fritters-001": {
+      "id": "cocoyam-fritters-001",
+      "title": "Cocoyam Fritters",
+      "description": "Crispy, spiced cocoyam fritters with a tender interior",
+      "prep_time": 20,
+      "cook_time": 15,
+      "total_time": 35,
+      "servings": 15,
+      "category": "Snacks",
+      "tags": ["Snacks", "Appetizers", "Nigerian", "Deep fried"],
+      "ingredients": [
+        {
+          "item": "Cocoyam",
+          "quantity": 4,
+          "unit": "cups"
+        },
+        {
+          "item": "Onions",
+          "quantity": 1,
+          "unit": "medium"
+        },
+        {
+          "item": "Scotch bonnet pepper",
+          "quantity": 1,
+          "unit": "small"
+        },
+        {
+          "item": "Eggs",
+          "quantity": 1,
+          "unit": "whole"
+        },
+        {
+          "item": "Stock cube",
+          "quantity": 1,
+          "unit": "whole"
+        },
+        {
+          "item": "Vegetable oil",
+          "quantity": 3,
+          "unit": "cups"
+        }
+      ],
+      "instructions": [
+        {
+          "step": "1. Peel and grate cocoyam. Squeeze out excess moisture using a clean kitchen towel.",
+          "time": 10,
+          "time_unit": "minutes",
+          "image_required": true
+        },
+        {
+          "step": "2. Finely dice onions and pepper. Mix with grated cocoyam, crushed stock cube, and egg.",
+          "time": 5,
+          "time_unit": "minutes"
+        },
+        {
+          "step": "3. Heat oil to 350°F (175°C). Drop spoonfuls of mixture into hot oil.",
+          "time": 5,
+          "time_unit": "minutes",
+          "image_required": true
+        },
+        {
+          "step": "4. Fry until golden brown and crispy on both sides. Remove and drain on paper towels.",
+          "time": 10,
+          "time_unit": "minutes",
+          "image_required": true
+        }
+      ],
+      "tips": [
+        "Remove as much moisture as possible for crispy fritters",
+        "Don't make fritters too thick - they need to cook through",
+        "Maintain oil temperature for even cooking",
+        "Serve hot for best texture"
+      ]
+    },
+    "fishballs-sauce-001": {
+      "id": "fishballs-sauce-001",
+      "title": "Fishballs in Tomato Sauce",
+      "description": "Tender fish balls simmered in a rich, spicy tomato sauce",
+      "prep_time": 30,
+      "cook_time": 25,
+      "total_time": 55,
+      "servings": 4,
+      "category": "Sauces",
+      "tags": ["Sauces", "Seafood", "Fish"],
+      "ingredients": [
+        {
+          "item": "Fish fillets",
+          "quantity": 500,
+          "unit": "grams"
+        },
+        {
+          "item": "Breadcrumbs",
+          "quantity": 0.5,
+          "unit": "cup"
+        },
+        {
+          "item": "Eggs",
+          "quantity": 1,
+          "unit": "whole"
+        },
+        {
+          "item": "Tomatoes",
+          "quantity": 6,
+          "unit": "large"
+        },
+        {
+          "item": "Red bell peppers",
+          "quantity": 2,
+          "unit": "medium"
+        },
+        {
+          "item": "Onions",
+          "quantity": 2,
+          "unit": "medium"
+        },
+        {
+          "item": "Garlic cloves",
+          "quantity": 4,
+          "unit": "whole"
+        },
+        {
+          "item": "Ginger",
+          "quantity": 1,
+          "unit": "inch"
+        },
+        {
+          "item": "Scotch bonnet",
+          "quantity": 1,
+          "unit": "whole"
+        }
+      ],
+      "instructions": [
+        {
+          "step": "1. Blend fish, egg, and seasonings in a food processor until smooth. Mix in breadcrumbs. Shape into small balls.",
+          "time": 15,
+          "time_unit": "minutes",
+          "image_required": true
+        },
+        {
+          "step": "2. Blend tomatoes, peppers, one onion, garlic, and ginger for sauce. Dice remaining onion.",
+          "time": 5,
+          "time_unit": "minutes"
+        },
+        {
+          "step": "3. Heat oil, sauté diced onions until translucent. Add blended sauce mix and simmer until reduced.",
+          "time": 15,
+          "time_unit": "minutes",
+          "image_required": true
+        },
+        {
+          "step": "4. Gently add fishballs to sauce. Simmer until cooked through.",
+          "time": 10,
+          "time_unit": "minutes",
+          "image_required": true
+        }
+      ],
+      "tips": [
+        "Keep hands wet when shaping fishballs",
+        "Don't stir sauce too vigorously after adding fishballs",
+        "Sauce should be thick enough to coat fishballs",
+        "Test fishball doneness by cutting one in half"
+      ]
+    },
+    "fried-rice-001": {
+      "id": "fried-rice-001",
+      "title": "Nigerian Fried Rice",
+      "description": "Classic Nigerian-style fried rice with mixed vegetables",
+      "prep_time": 30,
+      "cook_time": 30,
+      "total_time": 60,
+      "servings": 6,
+      "category": "Rice",
+      "tags": ["West African", "Nigerian", "Rice"],
+      "ingredients": [
+        {
+          "item": "Long grain rice",
+          "quantity": 4,
+          "unit": "cups"
+        },
+        {
+          "item": "Mixed vegetables",
+          "quantity": 3,
+          "unit": "cups"
+        },
+        {
+          "item": "Chicken stock",
+          "quantity": 1,
+          "unit": "cup"
+        },
+        {
+          "item": "Onions",
+          "quantity": 2,
+          "unit": "medium"
+        },
+        {
+          "item": "Curry powder",
+          "quantity": 1,
+          "unit": "tablespoon"
+        },
+        {
+          "item": "Thyme",
+          "quantity": 1,
+          "unit": "teaspoon"
+        },
+        {
+          "item": "Vegetable oil",
+          "quantity": 0.5,
+          "unit": "cup"
+        },
+        {
+          "item": "Salt",
+          "quantity": 1,
+          "unit": "teaspoon"
+        }
+      ],
+      "instructions": [
+        {
+          "step": "1. Cook rice in salted water until firm but done. Spread on tray to cool.",
+          "time": 20,
+          "time_unit": "minutes",
+          "image_required": true
+        },
+        {
+          "step": "2. Heat oil in a large wok or pot, sauté onions until translucent.",
+          "time": 5,
+          "time_unit": "minutes"
+        },
+        {
+          "step": "3. Add vegetables and stir-fry until just tender.",
+          "time": 5,
+          "time_unit": "minutes"
+        },
+        {
+          "step": "4. Add cooled rice, spices, and chicken stock. Stir-fry until well combined and heated through.",
+          "time": 10,
+          "time_unit": "minutes",
+          "image_required": true
+        }
+      ],
+      "tips": [
+        "Rice must be cooled before frying",
+        "Don't overcook the vegetables",
+        "Use high heat when frying",
+        "Season to taste at the end"
+      ]
+    },
+    "herb-oil-001": {
+      "id": "herb-oil-001",
+      "title": "Herb Oil",
+      "description": "Fresh herb-infused oil for dressing and finishing dishes",
+      "prep_time": 10,
+      "cook_time": 5,
+      "total_time": 15,
+      "servings": "1 cup",
+      "category": "Condiments",
+      "tags": ["Condiments", "Herbs"],
+      "ingredients": [
+        {
+          "item": "Olive oil",
+          "quantity": 1,
+          "unit": "cup"
+        },
+        {
+          "item": "Fresh basil",
+          "quantity": 1,
+          "unit": "cup"
+        },
+        {
+          "item": "Fresh parsley",
+          "quantity": 0.5,
+          "unit": "cup"
+        },
+        {
+          "item": "Garlic cloves",
+          "quantity": 2,
+          "unit": "whole"
+        }
+      ],
+      "instructions": [
+        {
+          "step": "1. Blanch herbs in boiling water for 10 seconds, then immediately transfer to ice water. Drain and pat completely dry.",
+          "time": 5,
+          "time_unit": "minutes",
+          "image_required": true
+        },
+        {
+          "step": "2. Blend herbs, garlic, and oil until completely smooth.",
+          "time": 2,
+          "time_unit": "minutes"
+        },
+        {
+          "step": "3. Strain through a fine-mesh sieve lined with cheesecloth.",
+          "time": 5,
+          "time_unit": "minutes",
+          "image_required": true
+        }
+      ],
+      "tips": [
+        "Store in a clean, airtight container",
+        "Keep refrigerated for up to 1 week",
+        "Bring to room temperature before using",
+        "Use on salads, pasta, or as a finishing oil"
+      ]
+    },
+    "iwuk-edesi-001": {
+      "id": "iwuk-edesi-001",
+      "title": "Iwuk Edesi (Palm Oil Rice)",
+      "description": "Traditional Nigerian palm oil rice with dried fish and spices",
+      "prep_time": 20,
+      "cook_time": 40,
+      "total_time": 60,
+      "servings": 6,
+      "category": "Rice",
+      "tags": ["West African", "Nigerian", "Rice"],
+      "ingredients": [
+        {
+          "item": "Long grain rice",
+          "quantity": 4,
+          "unit": "cups"
+        },
+        {
+          "item": "Palm oil",
+          "quantity": 1,
+          "unit": "cup"
+        },
+        {
+          "item": "Dried fish",
+          "quantity": 2,
+          "unit": "pieces"
+        },
+        {
+          "item": "Onions",
+          "quantity": 2,
+          "unit": "medium"
+        },
+        {
+          "item": "Scotch bonnet peppers",
+          "quantity": 2,
+          "unit": "whole"
+        },
+        {
+          "item": "Crayfish",
+          "quantity": 2,
+          "unit": "tablespoons"
+        },
+        {
+          "item": "Stock cubes",
+          "quantity": 2,
+          "unit": "whole"
+        }
+      ],
+      "instructions": [
+        {
+          "step": "1. Clean dried fish and soak in hot water. Dice onions and peppers.",
+          "time": 10,
+          "time_unit": "minutes"
+        },
+        {
+          "step": "2. Heat palm oil until clear, add onions and peppers. Sauté until soft.",
+          "time": 5,
+          "time_unit": "minutes",
+          "image_required": true
+        },
+        {
+          "step": "3. Add rice, dried fish, crayfish, stock cubes, and required water. Bring to boil.",
+          "time": 5,
+          "time_unit": "minutes"
+        },
+        {
+          "step": "4. Reduce heat, cover, and simmer until rice is cooked and liquid is absorbed.",
+          "time": 25,
+          "time_unit": "minutes",
+          "image_required": true
+        }
+      ],
+      "tips": [
+        "Don't stir too often after adding rice",
+        "Palm oil should be clear before adding ingredients",
+        "Adjust pepper quantity to taste",
+        "Let rest for 5 minutes before serving"
+      ]
+    },
+    "maharagwe-nazi-001": {
+      "id": "maharagwe-nazi-001",
+      "title": "Maharagwe ya Nazi (Beans in Coconut Sauce)",
+      "description": "Red kidney beans in a rich coconut curry sauce, East African style",
+      "prep_time": 30,
+      "cook_time": 60,
+      "total_time": 90,
+      "servings": 6,
+      "category": "Sauces",
+      "tags": ["Sauces", "East African", "Vegan", "Curry"],
+      "ingredients": [
+        {
+          "item": "Red kidney beans",
+          "quantity": 2,
+          "unit": "cups"
+        },
+        {
+          "item": "Coconut milk",
+          "quantity": 2,
+          "unit": "cups"
+        },
+        {
+          "item": "Tomatoes",
+          "quantity": 3,
+          "unit": "medium"
+        },
+        {
+          "item": "Onions",
+          "quantity": 2,
+          "unit": "medium"
+        },
+        {
+          "item": "Garlic cloves",
+          "quantity": 4,
+          "unit": "whole"
+        },
+        {
+          "item": "Ginger",
+          "quantity": 1,
+          "unit": "inch"
+        },
+        {
+          "item": "Curry powder",
+          "quantity": 2,
+          "unit": "tablespoons"
+        },
+        {
+          "item": "Cardamom pods",
+          "quantity": 4,
+          "unit": "whole"
+        }
+      ],
+      "instructions": [
+        {
+          "step": "1. Soak beans overnight. Drain and cook in fresh water until tender but still holding shape.",
+          "time": 45,
+          "time_unit": "minutes"
+        },
+        {
+          "step": "2. Blend tomatoes, half the onions, garlic, and ginger into a smooth paste.",
+          "time": 5,
+          "time_unit": "minutes",
+          "image_required": true
+        },
+        {
+          "step": "3. Sauté remaining diced onions until golden. Add curry powder and cardamom, fry until fragrant.",
+          "time": 5,
+          "time_unit": "minutes"
+        },
+        {
+          "step": "4. Add blended mixture, cook until oil separates. Add coconut milk and cooked beans, simmer until thickened.",
+          "time": 15,
+          "time_unit": "minutes",
+          "image_required": true
+        }
+      ],
+      "tips": [
+        "Use fresh coconut milk for best results",
+        "Don't overcook beans - they should hold their shape",
+        "Sauce should be thick but still flowing",
+        "Let it rest for flavors to develop"
+      ]
+    },
+    "moimoi-001": {
+      "id": "moimoi-001",
+      "title": "Moimoi (Steamed Bean Pudding)",
+      "description": "Smooth, steamed bean pudding with vegetables and eggs",
+      "prep_time": 45,
+      "cook_time": 45,
+      "total_time": 90,
+      "servings": 8,
+      "category": "Breakfast",
+      "tags": ["West African", "Nigerian", "Breakfast", "Appetizers", "Protein-rich"],
+      "ingredients": [
+        {
+          "item": "Peeled black-eyed beans",
+          "quantity": 2,
+          "unit": "cups"
+        },
+        {
+          "item": "Red bell pepper",
+          "quantity": 1,
+          "unit": "medium"
+        },
+        {
+          "item": "Onions",
+          "quantity": 2,
+          "unit": "medium"
+        },
+        {
+          "item": "Scotch bonnet pepper",
+          "quantity": 1,
+          "unit": "whole"
+        },
+        {
+          "item": "Vegetable oil",
+          "quantity": 0.25,
+          "unit": "cup"
+        },
+        {
+          "item": "Eggs",
+          "quantity": 2,
+          "unit": "whole"
+        },
+        {
+          "item": "Stock cube",
+          "quantity": 2,
+          "unit": "whole"
+        }
+      ],
+      "instructions": [
+        {
+          "step": "1. Soak beans overnight, then rub between hands to remove skins. Rinse until water runs clear.",
+          "time": 20,
+          "time_unit": "minutes",
+          "image_required": true
+        },
+        {
+          "step": "2. Blend beans, peppers, and onions until completely smooth. Mix in oil, crushed stock cubes, and salt.",
+          "time": 10,
+          "time_unit": "minutes",
+          "image_required": true
+        },
+        {
+          "step": "3. Beat eggs and stir into bean mixture until well combined.",
+          "time": 5,
+          "time_unit": "minutes"
+        },
+        {
+          "step": "4. Pour into greased moimoi molds or ramekins, cover with foil. Steam in a large pot with water halfway up sides of molds.",
+          "time": 45,
+          "time_unit": "minutes",
+          "image_required": true
+        }
+      ],
+      "tips": [
+        "Ensure beans are completely smooth when blended",
+        "Water shouldn't enter the molds while steaming",
+        "Insert a toothpick to test doneness - should come out clean",
+        "Can be made in banana leaves for traditional flavor"
+      ]
+    },
+    "onion-oil-001": {
+      "id": "onion-oil-001",
+      "title": "Onion Oil",
+      "description": "Sweet and aromatic onion-infused oil",
+      "prep_time": 5,
+      "cook_time": 25,
+      "total_time": 30,
+      "servings": "2 cups",
+      "category": "Condiments",
+      "tags": ["Condiments"],
+      "ingredients": [
+        {
+          "item": "Neutral oil",
+          "quantity": 2,
+          "unit": "cups"
+        },
+        {
+          "item": "Onions",
+          "quantity": 2,
+          "unit": "large"
+        }
+      ],
+      "instructions": [
+        {
+          "step": "1. Slice onions thinly. Heat oil in a saucepan over medium heat until it reaches 300°F (150°C).",
+          "time": 5,
+          "time_unit": "minutes",
+          "image_required": true
+        },
+        {
+          "step": "2. Add onions to oil and cook until golden brown, stirring occasionally.",
+          "time": 15,
+          "time_unit": "minutes",
+          "image_required": true
+        },
+        {
+          "step": "3. Strain oil into a heat-safe container. Keep the fried onions for garnish if desired.",
+          "time": 5,
+          "time_unit": "minutes"
+        }
+      ],
+      "tips": [
+        "Store in a clean, airtight container",
+        "Keep refrigerated for up to 2 weeks",
+        "Use fried onions as a garnish",
+        "Great for stir-fries and marinades"
+      ]
+    },
+    "sinasir-001": {
+      "id": "sinasir-001",
+      "title": "Sinasir (Hausa Rice Pancakes)",
+      "description": "Traditional fermented rice pancakes with distinctive holes",
+      "prep_time": 720,
+      "cook_time": 20,
+      "total_time": 740,
+      "servings": 10,
+      "category": "Breakfast",
+      "tags": ["West African", "Nigerian", "Breakfast", "Rice", "Fermented"],
+      "ingredients": [
+        {
+          "item": "Rice",
+          "quantity": 3,
+          "unit": "cups"
+        },
+        {
+          "item": "Yeast",
+          "quantity": 1,
+          "unit": "teaspoon"
+        },
+        {
+          "item": "Sugar",
+          "quantity": 1,
+          "unit": "tablespoon"
+        },
+        {
+          "item": "Salt",
+          "quantity": 0.5,
+          "unit": "teaspoon"
+        }
+      ],
+      "instructions": [
+        {
+          "step": "1. Soak rice overnight, then blend until smooth. Add yeast and sugar, let ferment for 12 hours.",
+          "time": 720,
+          "time_unit": "minutes",
+          "image_required": true
+        },
+        {
+          "step": "2. After fermentation, add salt and stir. Batter should be slightly thick but pourable.",
+          "time": 5,
+          "time_unit": "minutes"
+        },
+        {
+          "step": "3. Heat non-stick pan on medium heat. Pour batter in circular motion from center outward.",
+          "time": 3,
+          "time_unit": "minutes",
+          "image_required": true
+        },
+        {
+          "step": "4. Cook until holes form and surface is dry. No need to flip.",
+          "time": 2,
+          "time_unit": "minutes",
+          "image_required": true
+        }
+      ],
+      "tips": [
+        "Rice must be properly fermented for best results",
+        "Batter should be smooth with no grains",
+        "Pan should not be too hot to allow holes to form",
+        "Don't flip the pancakes - they cook on one side only"
+      ]
+    }
+  }
+}
